@@ -1,6 +1,6 @@
 <h1>Learned How to Design a PCB</h1>
 <h2>December 11, 2025</h2>
-<h3>Spent:2.8Hours</h3>
+<h3>Spent time: 2.8Hours</h3>
 <p>Today through youtube, I learned how to design a PCB on Kikad and started building my first PCB design. Before I worked with breadboard circuitry but never designed a PCB. The one I am designing right now is not related to any project. It's just an tutorial piece. I am gonna make my main project PCB next day. The whole circuitry is on my head right now.
 </p>
 <img width="2820" height="1440" alt="image" src="https://github.com/user-attachments/assets/f9528ade-91ad-4950-a86b-b48b1fc89f4f" />
@@ -10,7 +10,7 @@
  
 <h1>Completed my first PCB</h1>
 <h2>December 12, 2025</h2>
-<h3>Spent:2.5Hours</h3>
+<h3>Spent time:2.5Hours</h3>
 <p>Today I completed my basic learning on building PCB and built an mini inverter PCB watching a tutorial. I leant how to make Gerber file and what to send to PCB manufacturer to manufacture my PCB. I hope from the next day, I can start building my project PCB.
 </p>
 <img width="3360" height="1080" alt="image" src="https://github.com/user-attachments/assets/33f80ba3-e70b-45db-9a7c-ccbedbea262d" />
