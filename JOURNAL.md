@@ -20,7 +20,7 @@
 <h1>Started making Schematics, researched on how to control AC.</h1>
 <h2>December 13, 2025</h2>
 <h3>Spent time: 4 Hours</h3>
-<p>Today I started building my project PCB and done research on how to control AC average voltage with a TRIAC and ESP 32. Bought some things to practically learn about TRIACS.
+<p> Today I started building my project PCB and done research on how to control AC average voltage with a TRIAC and ESP 32. I want to make a board which can be attached to any switch board and turn it into a smart switchboard. I want to also want to put an AC induction fan regulator. That's why I needed to learn about Triacs. But controlling AC voltage without a transformer is pretty hard ngl. Bought some things to practically learn about TRIACS.
 </p>
 Today I started building my project PCB and done research on how to control AC average voltage with a TRIAC and ESP 32. Bought some things to practically learn about TRIACS.
 <img width="2168" height="2879" alt="image" src="https://github.com/user-attachments/assets/a4b9b796-0382-4075-a8f2-f87552052d20" />
@@ -31,14 +31,15 @@ Today I started building my project PCB and done research on how to control AC a
 <h1>Finished doing Schematics</h1>
 <h2>December 15, 2025</h2>
 <h3>Spent time: 8 Hours</h3>
-<p>I am journaling after two days as I was busy researching on how to control AC voltage via ESP 32. I couldn't get the TRIOPS work so I switched to capacitor based step regulator. And after calculating my preferences and everything it took me a lot of time to do the schematics properly. I used a lot of labels as so many wirings might make it look messy.</p>
+<p>I am journaling after two days as I was busy researching on how to control AC voltage via ESP 32. I couldn't get the TRIACS work so I switched to capacitor based step regulator. And after calculating my preferences and everything it took me a lot of time to do the schematics properly. I used a lot of labels as so many wirings might make it look messy. I switched to the capacitor method cause that is mostly traditional and many people used this kind off setup before me. I failed in controlling TRIACS on my demo model, so I gave up on it and switched to Capacitor based voltage control for AC induction FAN.</p>
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/529b7d91-9933-4ba3-a43b-73a68decfe84" />
 
 
 <h1>Modified Schematics for safety</h1>
 <h2>December 17, 2025</h2>
 <h3>Spent time: 5 Hours</h3>
-<p>Modified my final schematics to make it safe and sustainable against AC currents. Did a lot of research on making it safe and placed apropiate safety measures.</p>
+<p> Modified my final schematics to make it safe and sustainable against AC currents. Did a lot of research on making it safe and placed apropiate safety measures. I mainly added fused to each Channel so if anything inside the circuit failed, the board doesn't become a fire hazard. I also tried to put some place for Varistors for overvoltage protection. I want my board to be like this that if it fails due to any circumstances, the main switch board works perfectly fine.
+ </p>
 <img width="1921" height="1042" alt="image" src="https://github.com/user-attachments/assets/2b90583e-9498-4c77-ae66-76edf01b3f8f" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/db7efee3-20cf-45ad-9d97-b5669271a35a" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f672d4d8-fb3f-4cc4-ad28-09ecef5ab12d" />
@@ -47,14 +48,15 @@ Today I started building my project PCB and done research on how to control AC a
 <h1>Started Designing PCB</h1>
 <h2>December 18, 2025</h2>
 <h3>Spent time: 2.5 Hours</h3>
-<p>I started to design PCB today. First I assigned footprint to all of the components and started making PCB design. Researched how to put it on right place and decided where to put which components and started doing it. I wanted to complete routing today but couldn't due to limited time.</p>
+<p>I started to design PCB today. First I assigned footprint to all of the components and started making PCB design. Researched how to put it on right place and decided where to put which components and started doing it. I wanted to complete routing today but couldn't due to limited time. I want to make it as compact as possible while maintaining the board design easy to understand and use, so anyone can do the wirings smoothly. So I needed to do put all screw terminal on a single side. But I did a silly mistake. In the 3d model, the screw hole was faced inward but I wanted it to be outward. Because the problem was with only 3D model and the routing can't be neater by putting the terminal to the expected side, I chose to keep the the 3D model as it is. While putting together the components, I just have to flip the terminals and that solves everything. I couldn't edit the 3d model as it was flipping the terminal and ruining my routing blueprint.</p>
 <img width="1915" height="1078" alt="image" src="https://github.com/user-attachments/assets/c42e8dc0-39b2-4753-bd76-544412d51d84" />
 
 
 <h1>Routed the PCB and Completed the hardware part.</h1>
 <h2>December 22, 2025</h2>
 <h3>Spent Time: 8 Hours</h3>
-<p>Today I completed all my work of hardware on Kikad. I completed my PCB designing ensuring no error persisted. I checked it many times and found flaws until it showed no errors. I fixed all my errors and flaws and made it a workable PCB. I am very happy today. And I didn't journal for couple of days as my goal of routing PCB wasn't completed</p>
+<p>Today I completed all my work of hardware on Kikad. I completed my PCB designing ensuring no error persisted. I checked it many times and found flaws until it showed no errors. I fixed all my errors and flaws and made it a workable PCB. I suffered a lot while choosing apropiate size for my paths in PCB, so I asked Gemini and gave him a list of what voltage and what current I want to use in what path, he suggested some width but I used a little bit more width than recommended because it gives a bit more headroom. While filling the PCB to GND, I kept all the AC traces away from the fill to prevent and leakage. Adjusting gap from pad to fill took a lot of time. I forgot that I increased the global distance from pad to fill a lot and was trying to adjust the distance in my tab so that wasn't working. After hours of not noticing it, I finally remembered that my global value was high. Then I decreased the global value and after that I could adjust my project value. Sometimes small silly things take more time than important things. Placing Via connection on right place with right radius and padding was also a bit tricky. I avoided via on high voltage AC side. I am very happy today.
+</p>
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4895bb0c-96e6-4cc8-8dd8-5951951495da" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/921b6704-4bb3-4674-9b8c-a964246a9308" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/966b375d-550e-4cb6-a563-8448d261711c" />
@@ -65,5 +67,22 @@ Today I started building my project PCB and done research on how to control AC a
 <h1>Completed the coding part.</h1>
 <h2>December 23, 2025</h2>
 <h3>Spent time: 4 Hours</h3>
-<p>Today I wrote whole logic of my my system and used AI to code more efficiently. I tested all logics by lighting LED and ensuring signal is going properly wherever is need.</p>
+<p>
+Today I wrote whole logic of my my system and used AI to code more efficiently. I tested all logics by lighting LED and ensuring signal is going properly wherever is need. The logic is like this,
+Default, Switch On and Switch On means Low signal doing nothing. This will allow the NC gate of relay to work perfectly without interacting with the microcontroller.
+Then when I press the switch On, microcontroller pin gives High signal which is transmitted to ULN transistor array that pulls the negative side of relay coil to ground thus activating the relay and turning the device off.
+The fan regulator one is pretty complex. There is normal On off for fan with no Capacitor adjustment. but if you want, after turning off that normal on off button, you can turn on regulated switch buttons, which can channel electricity from 3 types of capacitor and resistor arrangements and controlling the fans speed within 3 Level.
+After powering on the microcontroller, the microcontroller works as an Wi-Fi AP(Access Point) and after connecting to it's wifi network and going to certain IP, we can control the devices by toggling graphical toggle switch within phone browser. And there is a option to put home Wi-Fi SSID and password to connect it to home Wi-Fi and make it accessible from anyone in the Wi-Fi network. That is currently in Wi-Fi LAN but it is possible to put it to WAN through port forwarding if you have a real IP, that is a bit complicated and not suitable for everyone. I am planning to develop an application software to control it without typing IPs and using Browsers.
+I currently didn't put any IR control code as I never worked with IR receiver. So I left a place on PCB to put IR receiver so after I learn about it, I can add it. This would make the thing more versatile by not depending only on WI-Fi Communications.
+</p>
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/21533a67-e105-4f3f-9421-3deba3530201" />
+
+
+
+
+<h1>Enriched Journal Entries and BOM</h1>
+<h2>January 14, 2026</h2>
+<h3>Spent 2.5 Hours</h3>
+<p>After getting reviewed by blueprint team, I needed to convert BOM from BDT to USD and to add more information on Journal. And for cost efficiency I needed to choose E-Post delivery on JLC PCB, SO I did that. Today I did nothing but edit BOM, rewriting some journal entries and take checkout screenshots.
+I needed to convert USD to BDT and BDT simultaneously with cent accuracy, because I had a lot of components which had prices under a dollar. And due to BDT to USD price fluctuation and inflation, my prices decreased a little bit. I also added shipping charge separately site by site.</p>
+<img width="1920" height="1078" alt="image" src="https://github.com/user-attachments/assets/9d8ffde3-0355-4d0f-85f4-a138140e38e4" />
