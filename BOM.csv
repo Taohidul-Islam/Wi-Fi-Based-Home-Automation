@@ -1,24 +1,23 @@
-Product,Value,Required Unit,Minimum Buying Unit,Buying Unit,Minimum buying unit Price(BDT),Total Byuing Unit Price(Excluding Shipping)(BDT),Total Byuing Unit Price(Excluding Shipping)(USD),URL,Shipping From,Shipping Charge(BDT),Shipping Charge(USD)
-20 W Adapter,220V AC--->5V DC,1,1,1,1469,1469,12.24,https://www.daraz.com.bd//products/i564440666-s2604870783.html?spm=a2o42.cart.0.0.585228296n1iUm&urlFlag=true,Daraz BD,1196,9.79
-Relay Module,"5V Trigger, 10A 250VAC",15,1,15,45,675,5.52,https://www.daraz.com.bd//products/i319719106-s1469791008.html?spm=a2o42.cart.0.0.585228296n1iUm&urlFlag=true,Ali Express,122.96,1.01
-Fuse1, 1A  5*20mm fast blow,3,set of 10,10,49,49,0.4,https://www.daraz.com.bd//products/i444232118-s2128683451.html?spm=a2o42.cart.0.0.58522829sfrRWX&urlFlag=true,Robotics BD,55,0.45
-Fuse2,2A  5*20mm fast blow,12,set of 10,20,49,98,0.8,https://www.daraz.com.bd//products/i444232118-s2128683451.html?spm=a2o42.cart.0.0.58522829sfrRWX&urlFlag=true,JLC PCB,2166.41,17.73
-Fuse Holder,5*20mm,20,set of10,20,49,49,0.4,https://www.daraz.com.bd//products/i207310529-s1156909193.html?spm=a2o42.cart.0.0.58522829nYtJ6R&urlFlag=true,,,
-PCB,,1,5,5,3580.46,3580.46,29.3,https://trade.jlcpcb.com/checkout/payMethod/?unionSettleId=2c1f0726be4245ee9c5634154f041633&systemType=order_pcb&orderTypes=order_pcb&calType=PRE_CAL&couponDemo=1&spm=Jlcpcb.Partcart.1002,,,
-Micro-Controller Board,ESP-32 Devkit,1,1,1,454,454,3.72,https://www.daraz.com.bd//products/i324430221-s1552746576.html?spm=a2o42.cart.0.0.58522829db5ohb&urlFlag=true,,,
-Terminal Screw Blocks1,P5mm 2pin,12,set of 5,15,37,111,0.91,https://www.daraz.com.bd//products/i148914119-s1075120819.html?spm=a2o42.cart.0.0.58522829Wl2EVi&urlFlag=true,,,
-Terminal Screw Blocks2,P5mm 3pin,3,set of 5,5,67,67,0.55,https://www.daraz.com.bd//products/i295982132-s1309673742.html?spm=a2o42.cart.0.0.58522829Yb1K1c&urlFlag=true,,,
-Capacitor1,4.7uf-400V,2,set of 2,2,99,99,0.81,https://www.daraz.com.bd//products/i458506660-s2198029867.html?spm=a2o42.cart.0.0.58522829uOnSQJ&urlFlag=true,,,
-Capacitor2,2.2uf-400V,2,set of 2,2,99,99,0.81,https://www.daraz.com.bd//products/i535851508-s2573957824.html?spm=a2o42.cart.0.0.58522829quvxq3&urlFlag=true,,,
-Capacitor3,0.1uf-400V,4,set of 5,5,100,100,0.82,https://www.daraz.com.bd//products/i128672154-s1048506248.html?spm=a2o42.cart.0.0.58522829Yo9MJn&urlFlag=true,,,
-Resistor1, 220k 2W,4,set of 10,10,58,58,0.43,https://www.daraz.com.bd//products/i286246768-s1284307192.html?spm=a2o42.cart.0.0.58522829EFLizd&urlFlag=true,,,
-Resistor2,2.2E 1/2W,4,set of 25,25,44,44,0.36,https://www.daraz.com.bd//products/i143596114-s1067934018.html?spm=a2o42.cart.0.0.58522829iLFIaZ&urlFlag=true,,,
-Resistor3,220E 2W,4,set of 25,25,90,90,0.74,https://www.daraz.com.bd//products/i225287965-s1170568856.html?spm=a2o42.cart.0.0.585228292B0OvI&urlFlag=true,,,
-Resistor4 ,2.2E 2W,4,Set of 20,20,120,120,0.98,https://www.aliexpress.com/item/1005009970275128.html?spm=a2g0o.cart.0.0.568418fcK484sb&mp=1&pdp_npi=5%40dis%21BDT%21BDT%20975.90%21BDT%20120.83%21%21BDT%20120.83%21%21%21%40213ba0c517665733241823284eb31e%2112000050733097576%21ct%21BD%216206133511%21%211%210,,,
-Varistor,10D511k MOV,4,Set of 20,20,262,262,2.14,https://www.aliexpress.com/item/1005010129610021.html?spm=a2g0o.cart.0.0.568418fcK484sb&mp=1&pdp_npi=5%40dis%21BDT%21BDT%20262.34%21BDT%20262.34%21%21BDT%20262.34%21%21%21%40213ba0c517665733241823284eb31e%2112000051244608817%21ct%21BD%216206133511%21%211%210,,,
-Transistor Array,ULN2803A,3,1,3,30,90,0.98,https://store.roboticsbd.com/analog-ics-/1425-uln2803a-driver-ic-robotics-bangladesh.html,,,
-IR reciever module,vs1838B,2,1,2,45,90,0.98,https://www.daraz.com.bd//products/i227060729-s1171325043.html?spm=a2o42.cart.0.0.58522829waLepO&urlFlag=true,,,
-Button,Push Buttons,2,Set of 3,3,44,44,0.36,https://www.daraz.com.bd//products/i265246999-s1236615166.html?spm=a2o42.cart.0.0.58522829O7FzfP&urlFlag=true,,,
-Solder Wire,60/40 Alloy,1 roll,1,1,160,160,1.31,https://www.daraz.com.bd//products/i230049013-s1173505479.html?spm=a2o42.cart.0.0.58522829ddBJoi&urlFlag=true,,,
-Flux,,1 tube,1,1,490,490,4.01,https://www.daraz.com.bd//products/i285968848-s1660252115.html?spm=a2o42.cart.0.0.58522829kRXe0m&urlFlag=true,,,
-Multimeter,,1,1,1,548,548,4.48,https://www.daraz.com.bd//products/i530554650-s2548595408.html?spm=a2o42.cart.0.0.58522829nySPnV&urlFlag=true,,,
+Product,Value,Required Unit,Minimum Buying Unit,Buying Unit,Minimum buying unit Price(BDT),Total Byuing Unit Price(Excluding Shipping)(BDT),Total Byuing Unit Price(Excluding Shipping)(USD),URL,Shipping From,Shipping Charge(BDT),Shipping Charge(USD),TOTAL COST AFTER SHIPPING(USD)
+20 W Adapter ,220V AC--->5V DC,1,1,1,1469,1469,12.24,https://www.daraz.com.bd//products/i564440666-s2604870783.html?spm=a2o42.cart.0.0.585228296n1iUm&urlFlag=true,Daraz BD,916,7.44,89.88
+Relay Module,"5V Trigger, 10A 250VAC",15,1,15,45,675,5.52,https://www.daraz.com.bd//products/i319719106-s1469791008.html?spm=a2o42.cart.0.0.585228296n1iUm&urlFlag=true,Ali Express,122.96,1.01,
+Fuse1, 1A  5*20mm fast blow,3,set of 10,10,49,49,0.4,https://www.daraz.com.bd//products/i444232118-s2128683451.html?spm=a2o42.cart.0.0.58522829sfrRWX&urlFlag=true,Robotics BD,55,0.45,TOTAL COST AFTER SHIPPING(BDT)
+Fuse2,2A  5*20mm fast blow,12,set of 10,20,49,98,0.8,https://www.daraz.com.bd//products/i444232118-s2128683451.html?spm=a2o42.cart.0.0.58522829sfrRWX&urlFlag=true,JLC PCB,2166.41,17.73,10908.83
+Fuse Holder ,5*20mm,20,set of10,20,49,49,0.4,https://www.daraz.com.bd//products/i207310529-s1156909193.html?spm=a2o42.cart.0.0.58522829nYtJ6R&urlFlag=true,,,,
+PCB,,1,5,5,3580.46,3580.46,29.3,https://trade.jlcpcb.com/checkout/payMethod/?unionSettleId=2c1f0726be4245ee9c5634154f041633&systemType=order_pcb&orderTypes=order_pcb&calType=PRE_CAL&couponDemo=1&spm=Jlcpcb.Partcart.1002,,,,
+Micro-Controller Board,ESP-32 Devkit k,1,1,1,454,454,3.72,https://www.daraz.com.bd//products/i324430221-s1552746576.html?spm=a2o42.cart.0.0.58522829db5ohb&urlFlag=true,,,,
+Terminal Screw Blocks1 ,P5mm 2pin,12,set of 5,15,37,111,0.91,https://www.daraz.com.bd//products/i148914119-s1075120819.html?spm=a2o42.cart.0.0.58522829Wl2EVi&urlFlag=true,,,,
+Terminal Screw Blocks2 ,P5mm 3pin,3,set of 5,5,67,67,0.55,https://www.daraz.com.bd//products/i295982132-s1309673742.html?spm=a2o42.cart.0.0.58522829Yb1K1c&urlFlag=true,,,,
+Capacitor1 ,4.7uf-400V,2,set of 2,2,99,99,0.81,https://www.daraz.com.bd//products/i458506660-s2198029867.html?spm=a2o42.cart.0.0.58522829uOnSQJ&urlFlag=true,,,,
+Capacitor2 ,2.2uf-400V,2,set of 2,2,99,99,0.81,https://www.daraz.com.bd//products/i535851508-s2573957824.html?spm=a2o42.cart.0.0.58522829quvxq3&urlFlag=true,,,,
+Capacitor3,0.1uf-400V,4,set of 5,5,100,100,0.82,https://www.daraz.com.bd//products/i128672154-s1048506248.html?spm=a2o42.cart.0.0.58522829Yo9MJn&urlFlag=true,,,,
+Resistor1 , 220k 2W,4,set of 10,10,58,58,0.43,https://www.daraz.com.bd//products/i286246768-s1284307192.html?spm=a2o42.cart.0.0.58522829EFLizd&urlFlag=true,,,,
+Resistor2 ,2.2E 1/2W,4,set of 25,25,44,44,0.36,https://www.daraz.com.bd//products/i143596114-s1067934018.html?spm=a2o42.cart.0.0.58522829iLFIaZ&urlFlag=true,,,,
+Resistor3 ,220E 2W,4,set of 25,25,90,90,0.74,https://www.daraz.com.bd//products/i225287965-s1170568856.html?spm=a2o42.cart.0.0.585228292B0OvI&urlFlag=true,,,,
+Resistor4 ,2.2E 2W,4,Set of 20,20,120,120,0.98,https://www.aliexpress.com/item/1005009970275128.html?spm=a2g0o.cart.0.0.568418fcK484sb&mp=1&pdp_npi=5%40dis%21BDT%21BDT%20975.90%21BDT%20120.83%21%21BDT%20120.83%21%21%21%40213ba0c517665733241823284eb31e%2112000050733097576%21ct%21BD%216206133511%21%211%210,,,,
+Varistor,10D511k MOV,4,Set of 20,20,262,262,2.14,https://www.aliexpress.com/item/1005010129610021.html?spm=a2g0o.cart.0.0.568418fcK484sb&mp=1&pdp_npi=5%40dis%21BDT%21BDT%20262.34%21BDT%20262.34%21%21BDT%20262.34%21%21%21%40213ba0c517665733241823284eb31e%2112000051244608817%21ct%21BD%216206133511%21%211%210,,,,
+Transistor Array,ULN2803A,3,1,3,30,90,0.98,https://store.roboticsbd.com/analog-ics-/1425-uln2803a-driver-ic-robotics-bangladesh.html,,,,
+IR reciever module ,vs1838B,2,1,2,45,90,0.98,https://www.daraz.com.bd//products/i227060729-s1171325043.html?spm=a2o42.cart.0.0.58522829waLepO&urlFlag=true,,,,
+Button ,Push Buttons,2,Set of 3,3,44,44,0.36,https://www.daraz.com.bd//products/i265246999-s1236615166.html?spm=a2o42.cart.0.0.58522829O7FzfP&urlFlag=true,,,,
+,,,,,,,,,,,,
+TOTAL COST,,,,,,7648.46,63.25,,,3260.37,26.63,
