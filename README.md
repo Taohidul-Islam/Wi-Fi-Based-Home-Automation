@@ -1,4 +1,4 @@
-# WI-Fi-Based-Home-Automation
+# Wi-Fi-Based-Home-Automation
 <h2>This Board can turn any regular household electric switchboard into a smart Wi-Fi and Remote controlled switchboard.</h2>
 <p>Here the board I designed is fail protected, meaning even if my electronic logic fails, the switchboard would work like a regular switchboard. The Automation Board is designed maintaining hierarchy. Meaning the Automation Board can only work only if the main switch from switch board is set to "on". In my logic I don't really turn anything "On". Everything is default "On" and "Off" by switchboard. I can just turn the things "Off" when the switch is "On" by triggering relay and turn the things back to it's default "On" position</p>
 <p>N.B. IR remote control is currently unavailable and AC induction fan control channel can be faulty as it is not tested(will test soon).</p>
