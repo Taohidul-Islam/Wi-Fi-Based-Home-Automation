@@ -86,3 +86,24 @@ I currently didn't put any IR control code as I never worked with IR receiver. S
 <p>After getting reviewed by blueprint team, I needed to convert BOM from BDT to USD and to add more information on Journal. And for cost efficiency I needed to choose E-Post delivery on JLC PCB, SO I did that. Today I did nothing but edit BOM, rewriting some journal entries and take checkout screenshots.
 I needed to convert USD to BDT and BDT simultaneously with cent accuracy, because I had a lot of components which had prices under a dollar. And due to BDT to USD price fluctuation and inflation, my prices decreased a little bit. I also added shipping charge separately site by site.</p>
 <img width="1920" height="1078" alt="image" src="https://github.com/user-attachments/assets/9d8ffde3-0355-4d0f-85f4-a138140e38e4" />
+
+
+<h1>Updated BOM again</h1>
+<h2>February 1, 2026</h2>
+<h3>Spent 1 Hour</h3>
+<p>After getting reviewed again, I had to change the BOM again to remove the tools I mentioned there. So the cost got a bit low. I also got suggestion on how to make the schematics a bit better and was suggested to make a case for my PCB. But as per I has near to no experience in CAD, learning it would take time, and that's the thing I have least right now. As per my SSC examination(Comparable to O level) is coming close, my parents aren't allowing much screen time, so I couldn't make any larger changes. Changing schematics would require me to re-route the whole PCB, which would take hours. But as far I checked with many AI tools, my project seems to be functional. And as per I am new to PCB designing I might have broken some conventions while designing the PCB. Still I am trying if I can make a simple case.
+</p>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6751d984-5c3c-4ea5-bd18-bbc842261d9c" />
+
+
+<h1>Making Case For the PCB</h1>
+<h2>February 2, 2026</h2>
+<h3>Spent 4 Hours</h3>
+<p>Today I somehow managed some time to make an case for my PCB in fusion 360. Learning this software was not that easy. Whatever, the hardest part was to figure out how to put the PCB from kikad into the case in fusion 360. After wandering for 30 minutes I figured it out and made a step file of my pcb from kikad first then imported that step into my fusion 360. now it looks pretty good. I also put screw holes to assemble it.
+</p>
+<img width="1920" height="1080" alt="Screenshot (120)" src="https://github.com/user-attachments/assets/ecc3546c-f05d-47a4-b21d-7c8583b2b4e4" />
+<img width="1920" height="1080" alt="Screenshot (119)" src="https://github.com/user-attachments/assets/4f75601b-8e70-4eef-99be-ec6e8d816fef" />
+<img width="1920" height="1080" alt="Screenshot (118)" src="https://github.com/user-attachments/assets/68fa56d3-c7de-4cb1-8cf7-a4037838e2e2" />
+<img width="1920" height="1080" alt="Screenshot (117)" src="https://github.com/user-attachments/assets/00469904-8bb7-4f3a-aa25-1afa735cf581" />
+<img width="1920" height="1080" alt="Screenshot (116)" src="https://github.com/user-attachments/assets/5fd1c448-d153-4c74-b555-4d96f50bbc98" />
+
