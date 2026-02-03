@@ -1,9 +1,9 @@
 Product,Value,Required Unit,Minimum Buying Unit,Buying Unit,Minimum buying unit Price(BDT),Total Byuing Unit Price(Excluding Shipping)(BDT),Total Byuing Unit Price(Excluding Shipping)(USD),URL,Shipping From,Shipping Charge(BDT),Shipping Charge(USD),TOTAL COST AFTER SHIPPING(USD)
-20 W Adapter ,220V AC--->5V DC,1,1,1,1469,1469,12.24,https://www.daraz.com.bd//products/i564440666-s2604870783.html?spm=a2o42.cart.0.0.585228296n1iUm&urlFlag=true,Daraz BD,916,7.44,89.88
+20 W Adapter ,220V AC--->5V DC,1,1,1,1469,1469,12.24,https://www.daraz.com.bd//products/i564440666-s2604870783.html?spm=a2o42.cart.0.0.585228296n1iUm&urlFlag=true,Daraz BD,916,7.44,102.88
 Relay Module,"5V Trigger, 10A 250VAC",15,1,15,45,675,5.52,https://www.daraz.com.bd//products/i319719106-s1469791008.html?spm=a2o42.cart.0.0.585228296n1iUm&urlFlag=true,Ali Express,122.96,1.01,
 Fuse1, 1A  5*20mm fast blow,3,set of 10,10,49,49,0.4,https://www.daraz.com.bd//products/i444232118-s2128683451.html?spm=a2o42.cart.0.0.58522829sfrRWX&urlFlag=true,Robotics BD,55,0.45,TOTAL COST AFTER SHIPPING(BDT)
-Fuse2,2A  5*20mm fast blow,12,set of 10,20,49,98,0.8,https://www.daraz.com.bd//products/i444232118-s2128683451.html?spm=a2o42.cart.0.0.58522829sfrRWX&urlFlag=true,JLC PCB,2166.41,17.73,10908.83
-Fuse Holder ,5*20mm,20,set of10,20,49,49,0.4,https://www.daraz.com.bd//products/i207310529-s1156909193.html?spm=a2o42.cart.0.0.58522829nYtJ6R&urlFlag=true,,,,
+Fuse2,2A  5*20mm fast blow,12,set of 10,20,49,98,0.8,https://www.daraz.com.bd//products/i444232118-s2128683451.html?spm=a2o42.cart.0.0.58522829sfrRWX&urlFlag=true,JLC PCB,2166.41,17.73,12504.83
+Fuse Holder ,5*20mm,20,set of10,20,49,49,0.4,https://www.daraz.com.bd//products/i207310529-s1156909193.html?spm=a2o42.cart.0.0.58522829nYtJ6R&urlFlag=true,Printing Legion,1596,13,
 PCB,,1,5,5,3580.46,3580.46,29.3,https://trade.jlcpcb.com/checkout/payMethod/?unionSettleId=2c1f0726be4245ee9c5634154f041633&systemType=order_pcb&orderTypes=order_pcb&calType=PRE_CAL&couponDemo=1&spm=Jlcpcb.Partcart.1002,,,,
 Micro-Controller Board,ESP-32 Devkit k,1,1,1,454,454,3.72,https://www.daraz.com.bd//products/i324430221-s1552746576.html?spm=a2o42.cart.0.0.58522829db5ohb&urlFlag=true,,,,
 Terminal Screw Blocks1 ,P5mm 2pin,12,set of 5,15,37,111,0.91,https://www.daraz.com.bd//products/i148914119-s1075120819.html?spm=a2o42.cart.0.0.58522829Wl2EVi&urlFlag=true,,,,
@@ -19,5 +19,5 @@ Varistor,10D511k MOV,4,Set of 20,20,262,262,2.14,https://www.aliexpress.com/item
 Transistor Array,ULN2803A,3,1,3,30,90,0.98,https://store.roboticsbd.com/analog-ics-/1425-uln2803a-driver-ic-robotics-bangladesh.html,,,,
 IR reciever module ,vs1838B,2,1,2,45,90,0.98,https://www.daraz.com.bd//products/i227060729-s1171325043.html?spm=a2o42.cart.0.0.58522829waLepO&urlFlag=true,,,,
 Button ,Push Buttons,2,Set of 3,3,44,44,0.36,https://www.daraz.com.bd//products/i265246999-s1236615166.html?spm=a2o42.cart.0.0.58522829O7FzfP&urlFlag=true,,,,
-,,,,,,,,,,,,
-TOTAL COST,,,,,,7648.46,63.25,,,3260.37,26.63,
+3D printing,Printing Legion Shipping,1,1,1,0,0,0,,,,,
+TOTAL COST,,,,,,7648.46,63.25,,,4856.37,39.63,
