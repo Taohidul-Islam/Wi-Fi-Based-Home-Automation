@@ -107,3 +107,10 @@ I needed to convert USD to BDT and BDT simultaneously with cent accuracy, becaus
 <img width="1920" height="1080" alt="Screenshot (117)" src="https://github.com/user-attachments/assets/00469904-8bb7-4f3a-aa25-1afa735cf581" />
 <img width="1920" height="1080" alt="Screenshot (116)" src="https://github.com/user-attachments/assets/5fd1c448-d153-4c74-b555-4d96f50bbc98" />
 
+
+<h1>Edited the case</h1>
+<h2>March 11, 2026</h2>
+<h3>Spent 2 Hours</h3>
+<p>Today I added standoffs to my existing case to make my PCB secure inside the case. Previously I added just screw holes which might have been a trouble as the pins of pcb might get damaged by the case. Now it is fine with standoffs.</p>
+<img width="1920" height="1080" alt="Screenshot (124)" src="https://github.com/user-attachments/assets/604eecc6-b223-4e9d-bcba-ec589efa014f" />
+
